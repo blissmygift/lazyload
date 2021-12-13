@@ -144,6 +144,7 @@ Tens of millions of pageviews are served each month using this project:
 * [decitre.fr](http://www.decitre.fr/)
 * [base-orb.fr](http://www.base-orb.fr/)
 * [nearbuy.com](http://www.nearbuy.com/)
+* [blissmygift.com](https://www.blissmygift.com)
 * [winni.in](https://www.winni.in)
 * [giftzbag.com](https://www.giftzbag.com)
 * [younetworth.com](https://younetworth.com/)
